@@ -1,11 +1,8 @@
 ## Setup Instructions
 
 1. Download Postman https://www.getpostman.com/apps. It's free to use (you may pay for more features)
-2. Open Postman and click Import > Import From Link
-3. Copy and paste the link below into form and Import
-
-`https://www.getpostman.com/collections/6177c70a5ed4d84ae5ac`
-
+2. Open Postman and click Import
+3. Import the collection provided in this repo
 4. Click the settings gear icon and select Manage environment
 5. Click Add
 6. Name this environment, e.g. datahub.h2awsm.org
